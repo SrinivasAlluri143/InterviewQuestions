@@ -1,0 +1,17 @@
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPracticalTests.deps.json
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPracticalTests.runtimeconfig.json
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPracticalTests.runtimeconfig.dev.json
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPracticalTests.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPracticalTests.pdb
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPractical.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\bin\Debug\netcoreapp2.1\CDSPractical.pdb
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.csprojAssemblyReference.cache
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.csproj.CoreCompileInputs.cache
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.AssemblyInfoInputs.cache
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.AssemblyInfo.cs
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.csproj.CopyComplete
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPracticalTests\obj\Debug\netcoreapp2.1\CDSPracticalTests.pdb

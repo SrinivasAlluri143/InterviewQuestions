@@ -1,0 +1,8 @@
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\bin\Debug\netcoreapp2.1\CDSPractical.deps.json
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\bin\Debug\netcoreapp2.1\CDSPractical.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\bin\Debug\netcoreapp2.1\CDSPractical.pdb
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\obj\Debug\netcoreapp2.1\CDSPractical.csproj.CoreCompileInputs.cache
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\obj\Debug\netcoreapp2.1\CDSPractical.AssemblyInfoInputs.cache
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\obj\Debug\netcoreapp2.1\CDSPractical.AssemblyInfo.cs
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\obj\Debug\netcoreapp2.1\CDSPractical.dll
+C:\interview-questions-master\interview-questions-master\csharp\CDSPractical\obj\Debug\netcoreapp2.1\CDSPractical.pdb
