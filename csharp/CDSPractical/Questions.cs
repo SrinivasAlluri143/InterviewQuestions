@@ -1,12 +1,10 @@
-﻿using Newtonsoft.Json;
-using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Threading;
 
-namespace CDSPractical {
+namespace CDSPractical
+{
     public class Questions {
         /// <summary>
         /// Given an enumerable of strings, attempt to parse each string and if 
@@ -26,8 +24,7 @@ namespace CDSPractical {
         /// <param name="source">An enumerable containing words</param>
         /// <returns></returns>
         public IEnumerable<int> ExtractNumbers(IEnumerable<string> source) {
-            List<int> result = new List<int>();
-            dynamic intvalues = "";
+            List<int> result = new List<int>();           
             int response;
             foreach(var item in source)
             {
@@ -202,9 +199,8 @@ namespace CDSPractical {
         /// </summary>
         /// <param name="source"></param>
         /// <returns></returns>
-        public IEnumerable<object> Shuffle(IEnumerable<object> source) {
-            var r = new Random((int)DateTime.Now.Ticks);
-            var shuffledList = source.Select(x => new { Number = r.Next(), Item = x }).Reverse().Select(x => x.Item);
+        public IEnumerable<object> Shuffle(IEnumerable<object> source) {          
+            var shuffledList = source.Select(x => new { Item = x }).Reverse().Select(x => x.Item);
             return shuffledList.ToList();
         }
 
