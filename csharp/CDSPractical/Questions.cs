@@ -83,13 +83,22 @@ namespace CDSPractical
             var secoundvalue = FindLongestWords(second);
             var response = "";
 
-            if (Convert.ToString(firstvalue) != string.Empty &&  Convert.ToString(secoundvalue) != string.Empty)
+            if (Convert.ToString(firstvalue) != string.Empty && Convert.ToString(secoundvalue) != string.Empty)
             {
-                if (firstvalue.First() == secoundvalue.First())
+                if (firstvalue.First().Length == secoundvalue.First().Length)
                 {
                     response = firstvalue.First();
                 }
+                if (firstvalue.First().Length > secoundvalue.First().Length)
+                {
+                    response = firstvalue.First();
+                }
+                if (firstvalue.First().Length < secoundvalue.First().Length)
+                {
+                    response = secoundvalue.First();
+                }
             }
+            
             return response;
         }
 
